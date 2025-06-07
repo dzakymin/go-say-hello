@@ -1,5 +1,5 @@
-package GO_MODULE
+package go_say_hello
 
-func say_hello() string {
+func Say_hello() string {
 	return "Hello"
 }
